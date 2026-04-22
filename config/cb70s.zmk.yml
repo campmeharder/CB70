@@ -4,7 +4,7 @@ name: CB70S2
 type: shield
 url: https://github.com/chadbailey59/zmk-config
 requires:
-  - nrf52840dk
+  - nice_nano_v2
 features:
   - keys
 siblings:
