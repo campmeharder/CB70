@@ -4,7 +4,7 @@ name: CB70S2
 type: shield
 url: https://github.com/chadbailey59/zmk-config
 requires:
-  - pro_micro
+  - nrf52840dk
 features:
   - keys
 siblings:
